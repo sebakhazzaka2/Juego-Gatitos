@@ -32,7 +32,6 @@
     - Diseño **responsive** (mobile-first).
     - Accesibilidad mínima: `alt` en imágenes, foco visible, buen contraste.
 
-    **Repo:** https://github.com/sebakhazzaka2/obligatorio-gatitos
 
     ---
     Autor: **Sebastián Khazzaka** (ORT Uruguay)  
